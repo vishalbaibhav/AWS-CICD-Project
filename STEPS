@@ -1,0 +1,4 @@
+create a cloud-9 environment on AWS 
+clone the code to a folder and dockerise the code ( turn the code into a docker image ) 
+build the image from the code adding all the dependencies.
+to test the application, run the code on a specific port on local machine and try to access the application from the browser.
